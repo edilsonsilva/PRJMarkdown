@@ -5,4 +5,4 @@ doloremque nesciunt rerum ab. Repellendus enim, repellat id
 architecto maiores tenetur. Accusamus dolore et consectetur culpa
 libero quia omnis animi itaque blanditiis quaerat!
 
-![Tela index do projeto](/img/telaindex.png)
+![Tela index do projeto](img/telaindex.png)
